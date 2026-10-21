@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "ibis-sqlflite",
+  "versions": [
+    {
+      "commit": "7868c5308583f4b74c3f1a7961049abd144822b1",
+      "parsed_at": "2026-10-21T19:51:15.911506+00:00",
+      "tag": "0.0.2",
+      "filetree": "filetree/7868c5308583f4b74c3f1a7961049abd144822b1.nq.gz",
+      "blobs": [
+        "blob/c1285714b2daef0a3d44733e98dba83a9c9f2503.nq.gz",
+        "blob/3a2706e66b97ca56e709f0146b216feff0dfa874.nq.gz",
+        "blob/04ed0db14018ffc406fa05ffd6dcdfa229599868.nq.gz",
+        "blob/dd79d090423bdf94ba6acb28bb1b4112174b070c.nq.gz",
+        "blob/18a0ec7fe2b540ea7d75143766676c5337419961.nq.gz",
+        "blob/b53402d0aa76ed163396075995f725cc38d9413f.nq.gz",
+        "blob/a4277ca82760898172cd947ee1f1445a4180abb5.nq.gz",
+        "blob/d0bfe807c99164515173c3b20cd3b9985cd0e94a.nq.gz",
+        "blob/e8719ac71b561404b08f445cea52f6dbe1e0a493.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
