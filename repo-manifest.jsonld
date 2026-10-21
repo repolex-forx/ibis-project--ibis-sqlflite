@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-sqlflite/commit/7868c5308583f4b74c3f1a7961049abd144822b1",
       "git:hexsha": "7868c5308583f4b74c3f1a7961049abd144822b1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.0.2"
     },
     {
