@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "ibis-sqlflite",
+  "versions": [
+    {
+      "commit": "7868c5308583f4b74c3f1a7961049abd144822b1",
+      "tag": "0.0.2",
+      "parsed_at": "2026-10-21T19:54:01.965892+00:00"
+    }
+  ]
+}
